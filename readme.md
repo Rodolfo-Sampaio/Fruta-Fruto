@@ -13,9 +13,9 @@ ___
 
 <br>
 
-##  Explore o fruta & fruto! 👀
+##  Explore o Fruta & Fruto! 👀
 
-Veja nosso site adaptável em 🚩[fruta & fruto](https://alura-cast.vercel.app/) e experimente diferentes tamanhos de tela pressionando `F12` e usando o Toggle Device Toolbar `Ctrl + Shift + M`.
+Veja nosso site adaptável em 🚩[Fruta & Fruto](https://fruta-fruto-amber.vercel.app/) e experimente diferentes tamanhos de tela pressionando `F12` e usando o Toggle Device Toolbar `Ctrl + Shift + M`.
 
 
 <br>
