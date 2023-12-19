@@ -1,7 +1,7 @@
 # Fruta & Fruto - O Sabor da Programação 🍏🍇 <a href="https://github.com/Rodolfo-Sampaio/Fruta-Fruto/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="NPM" align="right"></a>
 
- O seu destino digital para descobrir e saborear receitas deliciosas! Aqui, não apenas exploramos os sabores culinários, mas também aplicamos as melhores práticas de HTML e CSS, incorporando a metodologia Atomic Design. durante o curso:
-### Arquitetura CSS: descomplicando os problemas da [Alura](https://cursos.alura.com.br/course/arquitetura-css) ⭐
+Seu destino digital de receitas irresistíveis! Aqui, exploramos não apenas sabores culinários, mas também aplicamos as melhores práticas de HTML e CSS. Utilizando o poderoso Bootstrap 4, aceleramos o desenvolvimento, aprimorando a funcionalidade e a responsividade do site, através do curso:
+### Bootstrap 4: criando uma landing page responsiva da [Alura](https://cursos.alura.com.br/course/bootstrap-landing-page) ⭐
 
 <br>
 
@@ -24,6 +24,7 @@ Veja nosso site adaptável em 🚩[fruta & fruto](https://alura-cast.vercel.app/
 <span style="letter-spacing: 10px">
    <img src="https://skillicons.dev/icons?i=html" title="HTML" width="60px"/>
    <img src="https://skillicons.dev/icons?i=css" title="CSS" width="60px"/>
+   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="60px"/>
 </span>
 
 #
@@ -32,11 +33,11 @@ Veja nosso site adaptável em 🚩[fruta & fruto](https://alura-cast.vercel.app/
 
 ### Instrutor(a):
 
-<a href="https://github.com/mahenrique94">
-  <img src="https://avatars.githubusercontent.com/u/11684103?v=4&s=50" alt="Matheus Castiglioni" style="border-radius: 50%; width: 50px; height: 50px;">
+<a href="https://github.com/JulianaAmoasei">
+  <img src="https://avatars.githubusercontent.com/u/32266030?v=4" alt="Juliana Amoasei" style="border-radius: 50%; width: 50px; height: 50px;">
 </a>
 
-[Matheus Castiglioni](https://github.com/mahenrique94)
+[Juliana Amoasei](https://github.com/JulianaAmoasei)
 <br>
 <br>
 
