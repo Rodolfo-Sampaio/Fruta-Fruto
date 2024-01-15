@@ -41,7 +41,7 @@ Veja nosso site adaptável em 🚩[Fruta & Fruto](https://fruta-fruto-amber.verc
 <br>
 <br>
 
-### "Olá, chef de código! 👨‍🍳 Bem-vindo à 'Cozinha Code', onde cada linha de código é um ingrediente para o sucesso digital! Se curtiu, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos preparar juntos deliciosos desafios de código! 🍲💻 #CodeCuisine"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFAF0&height=100&section=footer" alt="Waving Capsule Render">
